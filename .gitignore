@@ -1,0 +1,11 @@
+/out
+/**/.vs
+/**/*.idb
+/**/*.suo
+/**/*.user
+/**/*.pch
+/**/*.ipch
+/**/*.sdf
+/**/*.opensdf
+/**/*.db
+/**/*.opendb
